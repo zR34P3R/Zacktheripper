@@ -4,7 +4,7 @@ requirements installation:
 Termux📱: bash termux-install
 
 
-💻Kali, Ubuntu and others:bash linux-install
+Kali, Ubuntu and others💻:bash linux-install
 
 And thanks for installing :)!
 
